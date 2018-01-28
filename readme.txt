@@ -1,0 +1,3 @@
+Testing Git and such via Termux in ChomeOS
+
+More later...
